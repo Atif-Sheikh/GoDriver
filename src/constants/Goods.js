@@ -1,0 +1,15 @@
+export const Goods = [
+  { id: 0, name: 'Electrical/Electronics' },
+  { id: 1, name: 'Building/Construction' },
+  { id: 3, name: 'Catering/Restaurant' },
+  { id: 4, name: 'Machines/Equipments' },
+  { id: 5, name: 'Textile/Garments' },
+  { id: 6, name: 'Furniture/Home Furnishing' },
+  { id: 7, name: 'House Shifting' },
+  { id: 8, name: 'Ceramics/Hardware' },
+  { id: 9, name: 'Paper/Packaging' },
+  { id: 10, name: 'Logistics' },
+  { id: 11, name: 'Perishable Food Items' },
+  { id: 12, name: 'Pharmacy/Medical' },
+  { id: 13, name: 'FMCG/Food Products' },
+];

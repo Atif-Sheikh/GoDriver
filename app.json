@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "GoTruck-User",
+    "slug": "GoTruck-User",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo5.png",
+    "splash": {
+      "image": "./assets/logo5.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#fff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.netismsoft.gotruckdriver",
+       "config": {
+      "googleMaps": {
+        "apiKey": "AIzaSyBR2yYj9_0q9MveNAVobayvShoH4b3Gv8g"
+      }
+    },
+      "versionCode": 2,
+      "permissions": [
+        ""
+      ]
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.netismsoft.gotruck",
+      "buildNumber": "1.0.0"
+    },
+    "description": "Module Screens",
+    "entryPoint": "node_modules/expo/AppEntry.js"
+  }
+}
